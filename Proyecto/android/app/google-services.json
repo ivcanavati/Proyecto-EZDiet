@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686038965660",
+    "firebase_url": "https://ezdiet-6bbcc-default-rtdb.firebaseio.com",
+    "project_id": "ezdiet-6bbcc",
+    "storage_bucket": "ezdiet-6bbcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686038965660:android:9b26f99369e8e550347c59",
+        "android_client_info": {
+          "package_name": "com.is707634.ezdiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686038965660-qhs79idtuqarmbj2dj78uktfek3n5oqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcV975q-HEpO6ctDHFHZbc8KHcrcmaGQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686038965660-qhs79idtuqarmbj2dj78uktfek3n5oqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
